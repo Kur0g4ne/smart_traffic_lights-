@@ -17,6 +17,9 @@ Cabo USB: Utilizado para programar o Arduino.
 Linguagem
 A Linguagem utilizada para a realização do projeto foi a C++
 
+Link do video:
+https://www.youtube.com/watch?v=vDzs7qc1Y0c
+
 Autores 
 1.	Gabriela Genaro Horta ra:1518252 (Membro) Guilherme Fernades Murakami ra:1625661 (Líder) Gabriel Arcanjo do Carmo ra:1686955 (Membro)
  
